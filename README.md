@@ -29,4 +29,4 @@ I care about pragmatic architecture, reliable systems, and software that solves 
 
 ## Connect
 
-Learn more at [HigherEdLab.com](https://higheredlab.com), or use the contact links on my GitHub profile for collaboration and engineering opportunities.
+Use the contact links on my GitHub profile for collaboration and engineering opportunities.
